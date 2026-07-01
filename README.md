@@ -58,7 +58,7 @@ I specialize in making complex UN data simple for country teams and donors to ac
 Open to UNICEF, WFP, UNDP, and NGO Data/M&E Consultant roles.
 
 *Let’s Connect*
-[LinkedIn] | [Email] | [Nairobi, KE]
+[LinkedIn: www.linkedin.com/in/carolinenaeku] | [Email: caroline.naeku@gmail.com] | [Cell:+254702228960]
 
 ---
 This portfolio uses anonymized UNEP data. All dashboards follow UN M&E reporting standards
