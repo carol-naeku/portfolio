@@ -12,8 +12,8 @@ I turn messy UN program data into stakeholder-ready dashboards that answer 3 que
 3. *Where* is the coverage gap vs need?
 
 *Tools*: Power BI, SQL, DAX, Excel
-*Domain: M&E, Beneficiary Tracking, Cost-Efficiency, Grant Reporting | 
-*UN System Experience: UNEP 
+*Domain*: M&E, Beneficiary Tracking, Cost-Efficiency, Grant Reporting | 
+*UN System Experience*: UNEP
 
 ---
 
