@@ -32,7 +32,7 @@ End-to-end: Data modeling → DAX measures → 1-page interactive Power BI repor
 - *Projects distribution yearly*: Projects value and type yearly trend
 - *Regional project distribution and status*: Project distribution regional, their expiry status and the expiry status
 
-*Tools Used: Power BI, DAX, Power Query | **Data*: UNEP Program Data [anonymized]
+**Tools** Used: Power BI, DAX, Power Query | **Data**: UNEP Program Data [anonymized]
 
 *Key Insight*
 The projects have rapidly increased over years and TAS projects has the most growth. ROA-A has the most projects,however ROA-A has the most ongoing projectsexpired followed ROAP-PIC which also has most projects closing soon
@@ -54,7 +54,7 @@ Screenshot:
 
 ### *About Me*
 M&E Analyst in Nairobi with experience supporting UNEP environmental programs.
-I specialize in making complex UN data simple for country teams and donors to act on.
+I specialize in making complex UN data simple for country teams and donors to action.
 Open to UNICEF, WFP, UNDP, and NGO Data/M&E Consultant roles.
 
 *Let’s Connect*
