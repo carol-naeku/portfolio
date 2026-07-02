@@ -28,18 +28,17 @@ to report project progress,funds distrubution and funding efficiency across mult
 End-to-end: Data modeling → DAX measures → 1-page interactive Power BI report for stakeholder briefings.
 
 *Key Metrics*
-- *200K+ Beneficiaries Tracked* across 5 counties [swap with your real number]
-- *Cost per Beneficiary*: $ spent vs population reached, by region
-- *Coverage Gap Analysis*: Identified [X] counties with high need, low funding [swap with your real insight]
+- *Projects Budget distribution*: Budget distribution by CAP,PSC & Projects & Projects Value
+- *Projects distribution yearly*: Projects value and type yearly trend
+- *Regional project distribution and status*: Project distribution regional, their expiry status and the expiry status
 
 *Tools Used: Power BI, DAX, Power Query | **Data*: UNEP Program Data [anonymized]
 
 *Key Insight*
-County X showed 30% higher need but 22% lower funding allocation vs County Y, flagging an equity gap for reallocation. [swap with your real insight]
+The projects have rapidly increased over years and TAS projects has the most growth. ROA-A has the most projects,however ROA-A has the most ongoing projectsexpired followed ROAP-PIC which also has most projects closing soon
 
 Screenshot:
-![Dashboard Preview](images/dashboard_preview.png)
-Upload 1 PNG of your best page to a /images folder
+
 
 ---
 
