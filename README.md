@@ -18,7 +18,7 @@ I turn messy UN program data into stakeholder-ready dashboards that answer 3 que
 ---
 
 ### *Featured Project: UN Projects Dashboard*
- **[Download PDF Case Study](./UN Systems Projects report(1).pdf)**
+ **[Download PDF Case Study](UN Systems Projects report(1).pdf)**
 
 *The Problem*
 UN teams need to consolidate programmes data stored in excel and combine that with transactional finance data from Umoja inorder
